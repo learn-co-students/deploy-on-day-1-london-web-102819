@@ -79,7 +79,8 @@ h6 {
     text-transform: uppercase;
 }
 
-p { margin-bottom: 15px }
+p { margin-bottom: 10px;
+    font-size: 10px }
 
 .clear {
     clear: both;
